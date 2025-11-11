@@ -6,7 +6,7 @@ import java.util.stream.*;
 public class ClassA 
 {
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("Abhishek singh ", "Ravi", "Ankit", "Ravi", "Neha");
+        List<String> names = Arrays.asList("Abhishek singh", "Ravi", "Ankit", "Ravi", "Neha");
 
         // 1️⃣ toList()
         List<String> list = names.stream().collect(Collectors.toList());
