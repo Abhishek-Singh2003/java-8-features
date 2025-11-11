@@ -5,7 +5,7 @@ public class ClassA {
 
     void display() {
     	
-    	System.out.println("Implementing Lambda Expressions hhjh \n");
+    	System.out.println("Implementing Lambda Expressions\n");
 
          // InterfaceA x = (int data) -> System.out.println("Hello World : " + data);    // 1st way
         //  InterfaceA x = (data) -> System.out.println("Hello World : " + data);       // 2nd way
