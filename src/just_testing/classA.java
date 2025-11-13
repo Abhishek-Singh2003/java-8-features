@@ -9,6 +9,8 @@ public static void main(String[] args)
 	System.out.println("hello world");
 	System.out.println("ghjk");
 	System.err.println("hello");
+	System.out.println("this is me ");
+	System.out.println("thios is explain in natrajna sir ");
 }
 
 }
