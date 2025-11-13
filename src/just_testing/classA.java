@@ -9,6 +9,7 @@ public static void main(String[] args)
 	System.out.println("hello world");
 	System.out.println("ghjk");
 	System.err.println("hello");
+	System.out.println("classA.main()");
 }
 
 }
